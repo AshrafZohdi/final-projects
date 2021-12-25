@@ -12,6 +12,7 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "npm": "npm run seed-database",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
